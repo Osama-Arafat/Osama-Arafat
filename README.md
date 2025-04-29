@@ -1,72 +1,41 @@
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZybWx4ZXo0Y2N0anI1aHd5cWoxYmVndnlubDB5NXN2YWFxOGIybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif"  />
+# 👋 Hi, I'm Osama
 
-   </head>
-<body>
-    <div class="typing-svg">
-                <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Mashhour;+Communication+Engineer;+CyberSecurity+Engineer;" alt="Typing SVG">
-    </div>
-</body>
-</html>
+💻 Cybersecurity Engineer in the making | SOC Analyst Trainee | Network Defender  
+🔐 Passionate about digital defense, incident response, and ethical hacking  
+🎓 Cybersecurity Trainee at the Information Technology Institute (ITI)
 
-## About Me
-I am a highly motivated and detail-oriented cybersecurity engineer. Skilled in incident response, threat analysis, and preventive security measures to ensure the confidentiality, integrity, and availability of assets. Eager to apply analytical skills and technical knowledge to real-world security challenges in a dynamic team environment.
+---
 
-### 🧰 Skills and Tools
-- *Security Information and Event Management (SIEM)*: Proficient in using Splunk Enterprise and Google Chronicle for monitoring and analyzing security events.
-- *Endpoint Detection and Response (EDR)*: Skilled in deploying and managing EDR solutions to detect and respond to threats.
-- *Network Security*: Expertise in using NMAP for network discovery and security auditing.
-- *Penetration Testing and Ethical Hacking*: Advanced user of Kali Linux for security testing and vulnerability assessments.
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=4ab197" alt="Linux">
-  <img src="https://img.shields.io/badge/Security-Wireshark-informational?style=flat-square&logo=wireshark&logoColor=white&color=4ab197" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Security-Nmap-informational?style=flat-square&logo=nmap&logoColor=white&color=4ab197" alt="Nmap">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=4ab197" alt="Python">
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=4ab197" alt="Docker">
-  </p>
+## ✅ What I've Completed So Far
 
-## Projects
-### [SIEM Implementation with Splunk Enterprise](https://github.com/yourusername/siem-splunk)
-- *Description*: Implementation of a comprehensive SIEM solution using Splunk Enterprise, including data ingestion, correlation searches, and custom dashboards.
-- *Technologies*: Splunk Enterprise, Python, Regular Expressions
-- *Highlights*:
-  - Configured data inputs from various sources including network devices, servers, and applications.
-  - Developed correlation searches to detect potential security incidents.
-  - Created custom dashboards for real-time monitoring and reporting.
+- ✅ Linux Administration 1 & 2  
+- ✅ System Administration Fundamentals  
+- ✅ CCNA (Cisco Certified Network Associate)  
+- ✅ Python Programming for Security and Automation
 
-### [Endpoint Detection and Response with Google Chronicle](https://github.com/yourusername/edr-google-chronicle)
-- *Description*: Deployment and management of EDR solutions using Google Chronicle to enhance threat detection and response capabilities.
-- *Technologies*: Google Chronicle, Python, APIs
-- *Highlights*:
-  - Integrated various endpoint data sources into Google Chronicle.
-  - Automated threat detection workflows using Python scripts.
-  - Developed detailed incident response playbooks.
+---
 
-### [talking-gloves-for-the-deaf-and-dumb](https://github.com/AhmMashhour/talking-gloves-for-the-deaf-and-dumb.git)
-- *Description*: Development of a glove-based gesture recognition system using flex sensors and an Arduino microcontroller to capture and translate hand gestures into corresponding characters.
-- *Technologies*: Arduino, Flex Sensors, Serial Communication
-- *Highlights*:
-  - Calibrated sensors for adaptability and accuracy.
-  - Mapped sensor values to angles for precise gesture recognition.
-  - Recognized specific gestures to translate into different characters.
+## 🚀 Tools & Tech I Use
 
-### [Penetration Testing with Kali Linux](https://github.com/yourusername/pentest-kali-linux)
-- *Description*: Advanced penetration testing and ethical hacking using Kali Linux to identify and mitigate security risks.
-- *Technologies*: Kali Linux, Metasploit, Burp Suite
-- *Highlights*:
-  - Conducted penetration tests on web applications, networks, and systems.
-  - Identified critical vulnerabilities and provided actionable remediation steps.
-  - Created training materials and workshops on penetration testing techniques.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
-### 🎓 Certifications
-- *Google Certificate in Cybersecurity*
+---
 
+## 📈 GitHub Stats
 
-## Contact
-- 🔗 **LinkedIn**: www.linkedin.com/in/ahmed-mashhour-b074ba178
-- 📧 **Email**: ahm.mashhour@gmail.com
+![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osama-Arafat&show_icons=true&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmmashhour&show_icons=true&locale=en&layout=compact" alt="ahmmashhour" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmmashhour&show_icons=true&locale=en" alt="ahmmashhour" /></p>
+## 📫 Let's Connect
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmmashhour&" alt="ahmmashhour" /></p>
+- LinkedIn: [Osama Arafat](https://www.linkedin.com/in/osama-arafat-51b290344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+---
+
+⭐️ Fun fact: I'm building my cyber skill tree like it's a Capture The Flag game.
